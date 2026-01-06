@@ -1,7 +1,7 @@
 # Personalized Recipe Generator ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-yellowgreen)
 
 ## Project Description
-The **Personalized Recipe Generator** is a web application designed to help home cooks, food enthusiasts, and individuals simplify meal planning. Users can input available ingredients and dietary preferences to generate personalized recipe suggestions. The app allows users to save their favorite recipes, plan meals for the week, and create shopping lists based on their selections.
+The **Personalized Recipe Generator** is a web application designed to help home cooks, food enthusiasts, and individuals looking to optimize their meal planning. Users can input available ingredients and dietary preferences to generate personalized recipe suggestions. The app allows users to save their favorite recipes, create meal plans, and generate shopping lists based on their selections.
 
 ## Features
 - User authentication and profile management
@@ -54,7 +54,7 @@ To deploy the application, follow these steps:
 - Build the application
 bash
 npm run build
-- Deploy the `build` folder to your preferred hosting service (e.g., Heroku, Vercel, etc.)
+- Deploy the `build` folder to your preferred hosting service (e.g., Heroku, Vercel).
 
 ## Contributing
 We welcome contributions! Please follow these steps to contribute:
